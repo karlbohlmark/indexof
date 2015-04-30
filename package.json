@@ -1,0 +1,21 @@
+{
+  "name": "@karboh/indexof",
+  "version": "1.0.0",
+  "description": "indexof the given element.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbohlmark/indexof.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlbohlmark/indexof/issues"
+  },
+  "homepage": "https://github.com/karlbohlmark/indexof#readme"
+}
